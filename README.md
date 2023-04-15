@@ -20,7 +20,9 @@ Podczas działania programu użytkownik może kożystać z komend
 - history-detailed  do wyświetlenia szczegółowych informacji na temat jednej z operacji wylistowanej za pomocą komendy history
 - exit              do wyjścia z programu.
 
-Do wykonywania operacji użytkownik musi wprowadzić całe wyrażenie w jednym wierszu jako pojedyncze wejście, w formacie: <liczba> <operator> <liczba>
+Do wykonywania operacji użytkownik musi wprowadzić całe wyrażenie w jednym wierszu jako pojedyncze wejście, w formacie: 
+
+liczba operator liczba
 
 Przykład wyrażenia:
 - 1 + 2.5
