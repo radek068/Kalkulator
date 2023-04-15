@@ -39,6 +39,8 @@ Przykład wyrażenia:
 aplikacja sprawdza popraność wpisanych przez użytkownika operacji, nie jest wrażliwa na używanie spacji tzn. 
 wyrażenie "3 + 4" zadziała poprawnie i w identyczny sposób co wyrażenie "3+4".
 
+![operacje](https://user-images.githubusercontent.com/128295743/232224592-0b846e03-d0ba-4db8-988b-fa70b3f747de.png)
+
 Aplikacja przechowuje historie wszystkich poprawnie wykonanych operacji dla każdej operacji przechowywane są informacje (które można wyświetlić za pomocą komendy history-detailed):
 - wartość pierwszej liczby.
 - wartość drugiej liczby.
@@ -47,6 +49,10 @@ Aplikacja przechowuje historie wszystkich poprawnie wykonanych operacji dla każ
 - dokładna godzina wykonania operacji.
 - czy do wykonania operacji posłużył wynik operacji poprzedniej.
 - numer poprzedniej operacji.
+
+![history](https://user-images.githubusercontent.com/128295743/232224656-d60118d8-b562-44d0-b507-7d3460bbd63b.png)
+
+![history detailed](https://user-images.githubusercontent.com/128295743/232224629-5017dfed-f4e6-4233-b1ab-d5aa8d1d79cd.png)
 
 Do uruchomienia aplikacji wymagane jest JDK javy w wersji 17.x zainstalowane na komputerze.
 Aby uruchomić aplikację należy pobrać plik Kalkulator.jar z repozytorium 
@@ -62,6 +68,8 @@ przykład użycia argumentów:
 java -jar Kalkulator.jar -a 4 5
 
 Program powinien się uruchomić wyświetlić wiadomość powitalną oraz rozwiązać działanie podane w argumentach.
+
+![argumenty](https://user-images.githubusercontent.com/128295743/232224561-4841017f-5aa6-4372-be24-fd942ed28365.png)
 
 w repozytorium również znajduje się folder doc z dokumentacją Javadoc, którą przygotowałem. Było to moje pierwsze doświadczenie z własnoręcznym przygotowaniem dokumentacji mam nadzieje, że zrobiłem to poprawnie. 
 
